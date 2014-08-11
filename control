@@ -1,0 +1,9 @@
+Package: com.expetelek.alwaysshowsublabelsonsnapchat
+Name: AlwaysShowSublabelsOnSnapchat
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Snapchat tweak that always shows the sublabels underneath snaps in the snap feed.
+Maintainer: Stevie Hetelekides
+Author: Stevie Hetelekides
+Section: Tweaks
